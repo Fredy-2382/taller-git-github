@@ -1,0 +1,12 @@
+{
+  "name": "taller-git-github",
+  "version": "1.0.0",
+  "description": "taller de github",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fredy",
+  "license": "ISC"
+}
